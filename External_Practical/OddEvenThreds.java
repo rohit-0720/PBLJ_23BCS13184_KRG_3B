@@ -1,4 +1,4 @@
-public class EvenOrOdd {
+public class OddEvenThreds {
     private static final Object lock = new Object();
     private static int currentNumber = 1;
     private static final int MAX_NUMBER = 15;
